@@ -48,7 +48,6 @@ I enjoy building applications that combine clean UI, efficient backend systems, 
 * HTML
 * CSS
 * JavaScript
-* Chart.js
 
 ### Backend
 
@@ -115,17 +114,7 @@ Python-based anomaly detection project for identifying unusual patterns in datas
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=B-Sandeep-Raj&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Sandeep-Raj&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📚 Currently Learning
 
