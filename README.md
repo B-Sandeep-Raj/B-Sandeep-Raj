@@ -1,159 +1,196 @@
+ <div align="center">
+
 # 👋 Hi, I'm B. Sandeep Raj
 
-<div align="center">
+### Software Developer | Full-Stack Developer | Exploring AI & ML
 
-### Full-Stack Developer | Information Science Engineering Student | MERN Stack Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Real-World+Applications;Java+%7C+Spring+Boot+%7C+React;Learning+Backend+Development;Exploring+Artificial+Intelligence+%26+ML" alt="Typing SVG" />
 
-Building scalable web applications, AI-powered solutions, and real-world software that solves practical problems.
+<p>
+<a href="https://github.com/B-Sandeep-Raj">
+<img src="https://img.shields.io/badge/GitHub-B--Sandeep--Raj-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/b-sandeep-raj-417739292/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:bsandeepraj2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://sandeep-protfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/b-sandeep-raj-417739292/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:bsandeepraj2004@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3" width="100%" />
 
 </div>
 
----
+## 🚀 About Me
 
-# 🚀 About Me
+I'm an Information Science Engineering student at **Bangalore Institute of Technology (BIT)**, passionate about software development, problem-solving and building real-world applications.
 
-I'm an Information Science Engineering student at **Bangalore Institute of Technology (BIT)** with a strong interest in **Full-Stack Development, Artificial Intelligence, Machine Learning, and Software Engineering**.
+- 💻 Interested in Software Engineering and Full-Stack Development.
+- ☕ Learning Java, Spring Boot and Backend Development.
+- 🌐 Building modern web applications using React.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🗄️ Learning database design, SQL and backend architecture.
+- 🤖 Currently exploring Artificial Intelligence and Machine Learning.
+- 🚀 Interested in creating useful products and solving real-world problems.
 
-I enjoy building applications that combine clean UI, efficient backend systems, data visualization, and intelligent automation.
+**My goal:** Become a skilled Software Engineer through continuous learning, practical projects and consistent improvement.
 
-### Areas of Interest
+## 💻 Technical Skills
 
-* 🌐 Full Stack Web Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Visualization
-* ☁️ Cloud & Modern Web Technologies
-* 🔒 Secure Application Development
-* 📱 Responsive UI/UX Design
+### Programming Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
+</p>
 
-# 🛠 Tech Stack
+### Frontend Development
 
-### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
 
-* JavaScript
-* Java
-* Python
-* HTML5
-* CSS3
-* SQL
+### Backend Development
 
-### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
 
-* React.js
-* HTML
-* CSS
-* JavaScript
+### Databases
 
-### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
 
-* Node.js
-* Express.js
-* REST APIs
+### Tools & Technologies
 
-### Database
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+</p>
 
-* MongoDB
-* MySQL
+### Core Computer Science
 
-### Tools
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- REST API Development
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Figma
+### Currently Exploring
 
----
+- Artificial Intelligence
+- Machine Learning Fundamentals
+- Generative AI
+- Large Language Models (LLMs)
+- Cloud Computing
 
-# 🌟 Featured Projects
+## 🛠️ Featured Projects
 
-## 💰 Financial Warner
+### 1. Loglizer – Windows Event Log Anomaly Detection
 
-A MERN-based intelligent personal finance management application.
+A machine-learning-based application designed to identify suspicious activities and anomalies in Windows Event Logs.
 
-### Features
+**Technologies:** Python, Scikit-learn, Logistic Regression, Random Forest, Isolation Forest, Streamlit.
 
-* Voice Expense Tracking
-* Budget Monitoring
-* EMI Calculator
-* Monthly Expense Reports
-* CSV Export
-* Interactive Charts
-* Responsive Design
+### 2. Smart Service Center Platform
 
-**Tech Used:** React • Node.js • Express • MongoDB • Chart.js
+A vehicle service management platform concept designed to connect vehicle owners with service centers and manage service requests.
 
----
+**Technologies:** React, Java, Spring Boot, MySQL.
 
-## 📚 StudyFlow
+### 3. Energy Consumption Prediction
 
-A student workflow and productivity management application for organizing academic tasks and improving study efficiency.
+A machine learning project that predicts energy consumption using historical data.
 
----
+**Technologies:** Python, Pandas, NumPy, Random Forest Regressor, FastAPI.
 
-## 📧 ML Spam Detector
+### 4. Certificate Validation Using Blockchain
 
-Machine Learning project that classifies emails/messages as Spam or Ham using Python.
+A project concept for validating digital certificates and improving certificate verification.
 
----
+**Technologies:** Blockchain, Web Development.
 
-## 📊 Monthly Expense Tracker & Alert
+### 5. Student Project & Activity Management System
 
-Expense tracking application with smart budget alerts and spending analysis.
+A web-based application for managing student projects and academic activities.
 
----
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
 
-## ⚡ Anomaly Detector
+> Explore my GitHub repositories for more projects and experiments.
 
-Python-based anomaly detection project for identifying unusual patterns in datasets.
+## 📊 GitHub Statistics
 
----
+<div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=B-Sandeep-Raj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Sandeep-Raj&layout=compact&theme=tokyonight&hide_border=true" />
 
-# 📚 Currently Learning
+<br/>
 
-* Advanced MERN Stack
-* System Design
-* Data Structures & Algorithms
-* AI Integration in Web Applications
-* Authentication & Security
-* Docker
-* Cloud Deployment
-* DevOps Fundamentals
+<img width="70%" src="https://streak-stats.demolab.com?user=B-Sandeep-Raj&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-# 🎯 Career Goal
+## 📈 Contribution Activity
 
-My goal is to become a skilled Software Engineer by building production-quality applications, continuously improving my problem-solving skills, and contributing to impactful software projects.
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=B-Sandeep-Raj&theme=tokyo-night&hide_border=true" width="100%" />
 
-# 🤝 Let's Connect
+</div>
 
-I'm always interested in:
+## 🎯 Currently Learning & Improving
 
-* Full Stack Development
-* Open Source Contributions
-* AI & Machine Learning Projects
-* Software Engineering Discussions
-* Internship & Placement Opportunities
-* Collaborative Development
+| Area | Focus |
+|---|---|
+| Java | OOP, Collections, Advanced Java |
+| DSA | Problem Solving and LeetCode |
+| Backend | Spring Boot, REST APIs |
+| Frontend | React, JavaScript, TypeScript |
+| Database | MySQL, MongoDB, SQL |
+| CS Fundamentals | OS, DBMS, CN |
+| AI & ML | Learning fundamentals and practical applications |
+| Tools | Git, GitHub, Postman, Linux |
 
-📧 **Email:** **[bsandeepraj2004@gmail.com](mailto:bsandeepraj2004@gmail.com)**
+## 🏆 My Development Goals
 
-🌐 **Portfolio:** https://sandeep-protfolio.netlify.app/
+- Build industry-level full-stack applications.
+- Improve problem-solving skills through DSA.
+- Develop strong backend engineering fundamentals.
+- Contribute to open-source projects.
+- Explore AI-powered software applications.
+- Learn system design and scalable architecture.
 
-💼 **LinkedIn:** https://www.linkedin.com/in/b-sandeep-raj-417739292/
+## 🤝 Let's Connect
 
----
+I'm always interested in learning, collaborating, building projects and connecting with other developers.
 
-> **"Learning never stops. Every project is another step toward becoming a better engineer."** 🚀
+<div align="center">
 
-⭐ If you like my work, consider following me and starring my repositories!
+<a href="https://github.com/B-Sandeep-Raj">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/b-sandeep-raj-417739292/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:bsandeepraj2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://sandeep-protfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💡 Learn. Build. Improve. Repeat.
+
+*"Consistency turns learning into engineering skills."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+
+</div>
