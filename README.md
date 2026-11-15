@@ -119,27 +119,6 @@ A web-based application for managing student projects and academic activities.
 
 > Explore my GitHub repositories for more projects and experiments.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=B-Sandeep-Raj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Sandeep-Raj&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=B-Sandeep-Raj&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=B-Sandeep-Raj&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
 
 ## 🎯 Currently Learning & Improving
 
