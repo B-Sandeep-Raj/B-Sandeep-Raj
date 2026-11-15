@@ -41,13 +41,13 @@ I'm an Information Science Engineering student at **Bangalore Institute of Techn
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Backend Development
@@ -59,7 +59,7 @@ I'm an Information Science Engineering student at **Bangalore Institute of Techn
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools & Technologies
